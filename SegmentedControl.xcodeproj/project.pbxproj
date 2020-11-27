@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FF6F858B2570E1C6008D49D2 /* ScrollView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF6F858B2570E1C6008D49D2 /* SegmentedControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SegmentedControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF6F858E2570E1C6008D49D2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FF6F85902570E1C6008D49D2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		FF6F85922570E1C6008D49D2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		FF6F858C2570E1C6008D49D2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FF6F858B2570E1C6008D49D2 /* ScrollView.app */,
+				FF6F858B2570E1C6008D49D2 /* SegmentedControl.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FF6F858A2570E1C6008D49D2 /* ScrollView */ = {
+		FF6F858A2570E1C6008D49D2 /* SegmentedControl */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FF6F859F2570E1C9008D49D2 /* Build configuration list for PBXNativeTarget "ScrollView" */;
+			buildConfigurationList = FF6F859F2570E1C9008D49D2 /* Build configuration list for PBXNativeTarget "SegmentedControl" */;
 			buildPhases = (
 				FF6F85872570E1C6008D49D2 /* Sources */,
 				FF6F85882570E1C6008D49D2 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = ScrollView;
+			name = SegmentedControl;
 			productName = ScrollView;
-			productReference = FF6F858B2570E1C6008D49D2 /* ScrollView.app */;
+			productReference = FF6F858B2570E1C6008D49D2 /* SegmentedControl.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FF6F85862570E1C6008D49D2 /* Build configuration list for PBXProject "ScrollView" */;
+			buildConfigurationList = FF6F85862570E1C6008D49D2 /* Build configuration list for PBXProject "SegmentedControl" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FF6F858A2570E1C6008D49D2 /* ScrollView */,
+				FF6F858A2570E1C6008D49D2 /* SegmentedControl */,
 			);
 		};
 /* End PBXProject section */
@@ -322,7 +322,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FF6F85862570E1C6008D49D2 /* Build configuration list for PBXProject "ScrollView" */ = {
+		FF6F85862570E1C6008D49D2 /* Build configuration list for PBXProject "SegmentedControl" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FF6F859D2570E1C9008D49D2 /* Debug */,
@@ -331,7 +331,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FF6F859F2570E1C9008D49D2 /* Build configuration list for PBXNativeTarget "ScrollView" */ = {
+		FF6F859F2570E1C9008D49D2 /* Build configuration list for PBXNativeTarget "SegmentedControl" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FF6F85A02570E1C9008D49D2 /* Debug */,
